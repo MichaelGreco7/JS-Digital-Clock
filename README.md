@@ -1,3 +1,3 @@
-Digital Clock with JavaScript
+## Digital Clock with JavaScript
 
-[Live Demo]()
+[Live Demo](https://michaelgreco7.github.io/JS-Digital-Clock/)
